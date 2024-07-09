@@ -1,0 +1,53 @@
+
+
+
+
+img{
+width: 200px;
+height: 200px;
+
+
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline red;
+    letter-spacing: 10px;
+    word-spacing: 10px; 
+}
+
+footer{
+    background-color: black;
+    color: white ;
+    height: 99px;
+
+
+}
+.header{
+background-color: blueviolet;
+height: 60px;
+padding-top: ;
+}
+ul li a{
+    font-family: ;
+color: brown;
+letter-spacing: 1rem;
+}
+.menu li a{
+font-weight:100px;
+letter-spacing: 10px;
+text-decoration: none;
+}
+.menu li {
+float: left;
+padding: 10px;
+}
+form{
+padding: 50px;
+text-align: right;
+
+}
+input[type="search"]{
+font-size: 10px;
+
+}
